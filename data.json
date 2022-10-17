@@ -1,0 +1,1530 @@
+{
+  "countries": [
+    {
+      "id": "004",
+      "name": "Afganistán"
+    },
+    {
+      "id": "008",
+      "name": "Albania"
+    },
+    {
+      "id": "276",
+      "name": "Alemania"
+    },
+    {
+      "id": "012",
+      "name": "Algeria"
+    },
+    {
+      "id": "020",
+      "name": "Andorra"
+    },
+    {
+      "id": "024",
+      "name": "Angola"
+    },
+    {
+      "id": "660",
+      "name": "Anguilla"
+    },
+    {
+      "id": "028",
+      "name": "Antigua y Barbuda"
+    },
+    {
+      "id": "530",
+      "name": "Antillas Holandesas"
+    },
+    {
+      "id": "682",
+      "name": "Arabia Saudita"
+    },
+    {
+      "id": "032",
+      "name": "Argentina"
+    },
+    {
+      "id": "051",
+      "name": "Armenia"
+    },
+    {
+      "id": "533",
+      "name": "Aruba"
+    },
+    {
+      "id": "036",
+      "name": "Australia"
+    },
+    {
+      "id": "040",
+      "name": "Austria"
+    },
+    {
+      "id": "031",
+      "name": "Azerbaijan"
+    },
+    {
+      "id": "044",
+      "name": "Bahamas"
+    },
+    {
+      "id": "048",
+      "name": "Bahrain"
+    },
+    {
+      "id": "971",
+      "name": "Banco Central Europeo"
+    },
+    {
+      "id": "050",
+      "name": "Bangladesh"
+    },
+    {
+      "id": "052",
+      "name": "Barbados"
+    },
+    {
+      "id": "112",
+      "name": "Belarus"
+    },
+    {
+      "id": "056",
+      "name": "Bélgica"
+    },
+    {
+      "id": "084",
+      "name": "Belice"
+    },
+    {
+      "id": "060",
+      "name": "Bermuda"
+    },
+    {
+      "id": "064",
+      "name": "Bhutan"
+    },
+    {
+      "id": "900",
+      "name": "BIELORUSIA"
+    },
+    {
+      "id": "070",
+      "name": "Bosnia Herzegovina"
+    },
+    {
+      "id": "072",
+      "name": "Botswana"
+    },
+    {
+      "id": "076",
+      "name": "Brasil"
+    },
+    {
+      "id": "096",
+      "name": "Brunei Darussalam"
+    },
+    {
+      "id": "100",
+      "name": "Bulgaria"
+    },
+    {
+      "id": "854",
+      "name": "Burkina Faso"
+    },
+    {
+      "id": "108",
+      "name": "Burundi"
+    },
+    {
+      "id": "132",
+      "name": "Cabo Verde"
+    },
+    {
+      "id": "116",
+      "name": "Cambodia"
+    },
+    {
+      "id": "120",
+      "name": "Camerún"
+    },
+    {
+      "id": "124",
+      "name": "Canadá"
+    },
+    {
+      "id": "148",
+      "name": "Chad"
+    },
+    {
+      "id": "152",
+      "name": "Chile"
+    },
+    {
+      "id": "156",
+      "name": "China"
+    },
+    {
+      "id": "196",
+      "name": "Chipre"
+    },
+    {
+      "id": "170",
+      "name": "Colombia"
+    },
+    {
+      "id": "174",
+      "name": "Comoros"
+    },
+    {
+      "id": "178",
+      "name": "Congo"
+    },
+    {
+      "id": "384",
+      "name": "Costa de Marfil"
+    },
+    {
+      "id": "188",
+      "name": "Costa Rica"
+    },
+    {
+      "id": "191",
+      "name": "Croacia"
+    },
+    {
+      "id": "192",
+      "name": "Cuba"
+    },
+    {
+      "id": "999",
+      "name": "Desconocido"
+    },
+    {
+      "id": "208",
+      "name": "Dinamarca"
+    },
+    {
+      "id": "212",
+      "name": "Dominica"
+    },
+    {
+      "id": "517",
+      "name": "Dominica"
+    },
+    {
+      "id": "218",
+      "name": "Ecuador"
+    },
+    {
+      "id": "818",
+      "name": "Egipto"
+    },
+    {
+      "id": "222",
+      "name": "El Salvador"
+    },
+    {
+      "id": "784",
+      "name": "Emiratos Árabes Unidos"
+    },
+    {
+      "id": "232",
+      "name": "Eritrea"
+    },
+    {
+      "id": "705",
+      "name": "Eslovenia"
+    },
+    {
+      "id": "724",
+      "name": "España"
+    },
+    {
+      "id": "068",
+      "name": "Estado Plurinacional de Bolivia"
+    },
+    {
+      "id": "583",
+      "name": "Estados Federados de Micronesia"
+    },
+    {
+      "id": "840",
+      "name": "Estados Unidos de América"
+    },
+    {
+      "id": "233",
+      "name": "Estonia"
+    },
+    {
+      "id": "231",
+      "name": "Etiopía"
+    },
+    {
+      "id": "643",
+      "name": "Federación Rusa"
+    },
+    {
+      "id": "242",
+      "name": "Fiji"
+    },
+    {
+      "id": "608",
+      "name": "Filipinas"
+    },
+    {
+      "id": "246",
+      "name": "Finlandia"
+    },
+    {
+      "id": "250",
+      "name": "Francia"
+    },
+    {
+      "id": "266",
+      "name": "Gabón"
+    },
+    {
+      "id": "270",
+      "name": "Gambia"
+    },
+    {
+      "id": "268",
+      "name": "Georgia"
+    },
+    {
+      "id": "288",
+      "name": "Ghana"
+    },
+    {
+      "id": "292",
+      "name": "Gibraltar"
+    },
+    {
+      "id": "515",
+      "name": "Granada"
+    },
+    {
+      "id": "300",
+      "name": "Grecia"
+    },
+    {
+      "id": "308",
+      "name": "Grenada"
+    },
+    {
+      "id": "304",
+      "name": "Groenlandia"
+    },
+    {
+      "id": "312",
+      "name": "Guadalupe"
+    },
+    {
+      "id": "316",
+      "name": "Guam"
+    },
+    {
+      "id": "320",
+      "name": "Guatemala"
+    },
+    {
+      "id": "254",
+      "name": "Guayana Francesa"
+    },
+    {
+      "id": "831",
+      "name": "Guernsey"
+    },
+    {
+      "id": "324",
+      "name": "Guinea"
+    },
+    {
+      "id": "226",
+      "name": "Guinea Ecuatorial"
+    },
+    {
+      "id": "624",
+      "name": "Guinea-Bissau"
+    },
+    {
+      "id": "328",
+      "name": "Guyana"
+    },
+    {
+      "id": "332",
+      "name": "Haití"
+    },
+    {
+      "id": "528",
+      "name": "Holanda"
+    },
+    {
+      "id": "336",
+      "name": "Holy See"
+    },
+    {
+      "id": "340",
+      "name": "Honduras"
+    },
+    {
+      "id": "344",
+      "name": "Hong Kong"
+    },
+    {
+      "id": "348",
+      "name": "Hungría"
+    },
+    {
+      "id": "356",
+      "name": "India"
+    },
+    {
+      "id": "360",
+      "name": "Indonesia"
+    },
+    {
+      "id": "972",
+      "name": "Instituciones de la UE"
+    },
+    {
+      "id": "368",
+      "name": "Iraq"
+    },
+    {
+      "id": "372",
+      "name": "Irlanda"
+    },
+    {
+      "id": "184",
+      "name": "Isla Cook"
+    },
+    {
+      "id": "833",
+      "name": "Isla de Man"
+    },
+    {
+      "id": "234",
+      "name": "Isla Faeroe"
+    },
+    {
+      "id": "612",
+      "name": "Isla Pitcairn"
+    },
+    {
+      "id": "638",
+      "name": "Isla Réunion"
+    },
+    {
+      "id": "352",
+      "name": "Islandia"
+    },
+    {
+      "id": "248",
+      "name": "Islas Aland"
+    },
+    {
+      "id": "136",
+      "name": "Islas Caymán"
+    },
+    {
+      "id": "238",
+      "name": "Islas Malvinas"
+    },
+    {
+      "id": "580",
+      "name": "Islas Marianas del Norte"
+    },
+    {
+      "id": "584",
+      "name": "Islas Marshall"
+    },
+    {
+      "id": "574",
+      "name": "Islas Norfolk"
+    },
+    {
+      "id": "090",
+      "name": "Islas Salomón"
+    },
+    {
+      "id": "744",
+      "name": "Islas Svalbard y Jan Mayen"
+    },
+    {
+      "id": "796",
+      "name": "Islas Turcos  y Caicos"
+    },
+    {
+      "id": "092",
+      "name": "Islas Vírgenes Británicas"
+    },
+    {
+      "id": "850",
+      "name": "Islas Vírgenes de Estados Unidos"
+    },
+    {
+      "id": "876",
+      "name": "Islas Wallis y Futuna"
+    },
+    {
+      "id": "376",
+      "name": "Israel"
+    },
+    {
+      "id": "380",
+      "name": "Italia"
+    },
+    {
+      "id": "388",
+      "name": "Jamaica"
+    },
+    {
+      "id": "392",
+      "name": "Japón"
+    },
+    {
+      "id": "832",
+      "name": "Jersey"
+    },
+    {
+      "id": "400",
+      "name": "Jordania"
+    },
+    {
+      "id": "404",
+      "name": "Kenya"
+    },
+    {
+      "id": "414",
+      "name": "Kuwait"
+    },
+    {
+      "id": "417",
+      "name": "Kyrgyzstan"
+    },
+    {
+      "id": "428",
+      "name": "Latvia"
+    },
+    {
+      "id": "426",
+      "name": "Lesotho"
+    },
+    {
+      "id": "422",
+      "name": "Líbano"
+    },
+    {
+      "id": "430",
+      "name": "Liberia"
+    },
+    {
+      "id": "434",
+      "name": "Libya"
+    },
+    {
+      "id": "440",
+      "name": "Lituania"
+    },
+    {
+      "id": "442",
+      "name": "Luxemburgo"
+    },
+    {
+      "id": "446",
+      "name": "Macau"
+    },
+    {
+      "id": "458",
+      "name": "Malasia"
+    },
+    {
+      "id": "454",
+      "name": "Malawi"
+    },
+    {
+      "id": "470",
+      "name": "Malta"
+    },
+    {
+      "id": "474",
+      "name": "Martinique"
+    },
+    {
+      "id": "478",
+      "name": "Mauritania"
+    },
+    {
+      "id": "175",
+      "name": "Mayotte"
+    },
+    {
+      "id": "484",
+      "name": "Méjico"
+    },
+    {
+      "id": "511",
+      "name": "Micronesia (Estados Federados de)"
+    },
+    {
+      "id": "498",
+      "name": "Moldova"
+    },
+    {
+      "id": "492",
+      "name": "Mónaco"
+    },
+    {
+      "id": "496",
+      "name": "Mongolia"
+    },
+    {
+      "id": "499",
+      "name": "Montenegro"
+    },
+    {
+      "id": "500",
+      "name": "Montserrat"
+    },
+    {
+      "id": "504",
+      "name": "Morocco"
+    },
+    {
+      "id": "508",
+      "name": "Mozambique"
+    },
+    {
+      "id": "516",
+      "name": "Namibia"
+    },
+    {
+      "id": "520",
+      "name": "Nauru"
+    },
+    {
+      "id": "524",
+      "name": "Nepal"
+    },
+    {
+      "id": "558",
+      "name": "Nicaragua"
+    },
+    {
+      "id": "562",
+      "name": "Niger"
+    },
+    {
+      "id": "566",
+      "name": "Nigeria"
+    },
+    {
+      "id": "570",
+      "name": "Niue"
+    },
+    {
+      "id": "578",
+      "name": "Noruega"
+    },
+    {
+      "id": "540",
+      "name": "Nueva  Caledonia"
+    },
+    {
+      "id": "554",
+      "name": "Nueva Zelanda"
+    },
+    {
+      "id": "512",
+      "name": "Omán"
+    },
+    {
+      "id": "973",
+      "name": "Otros organismos internacionales"
+    },
+    {
+      "id": "970",
+      "name": "Otros Países"
+    },
+    {
+      "id": "966",
+      "name": "OTROS TERRITORIOS ESPAÑOL"
+    },
+    {
+      "id": "586",
+      "name": "Pakistán"
+    },
+    {
+      "id": "585",
+      "name": "Palau"
+    },
+    {
+      "id": "591",
+      "name": "Panamá"
+    },
+    {
+      "id": "598",
+      "name": "Papua Nueva Guinea"
+    },
+    {
+      "id": "600",
+      "name": "Paraguay"
+    },
+    {
+      "id": "604",
+      "name": "Perú"
+    },
+    {
+      "id": "258",
+      "name": "Polinesia Francesa"
+    },
+    {
+      "id": "616",
+      "name": "Polonia"
+    },
+    {
+      "id": "620",
+      "name": "Portugal"
+    },
+    {
+      "id": "438",
+      "name": "Principado de Liechtenstein"
+    },
+    {
+      "id": "630",
+      "name": "Puerto Rico"
+    },
+    {
+      "id": "634",
+      "name": "Qatar"
+    },
+    {
+      "id": "748",
+      "name": "Reino de Swazilandia"
+    },
+    {
+      "id": "826",
+      "name": "Reino Unido"
+    },
+    {
+      "id": "760",
+      "name": "República Arabe de Syrian"
+    },
+    {
+      "id": "140",
+      "name": "República Central Africana"
+    },
+    {
+      "id": "203",
+      "name": "República Checa"
+    },
+    {
+      "id": "204",
+      "name": "República de Benin"
+    },
+    {
+      "id": "410",
+      "name": "República de Corea"
+    },
+    {
+      "id": "262",
+      "name": "República de Djibouti"
+    },
+    {
+      "id": "703",
+      "name": "República de Eslovaquia"
+    },
+    {
+      "id": "398",
+      "name": "República de Kazakhstan"
+    },
+    {
+      "id": "296",
+      "name": "República de Kiribati"
+    },
+    {
+      "id": "807",
+      "name": "República de Macedonia"
+    },
+    {
+      "id": "462",
+      "name": "República de Maldivas"
+    },
+    {
+      "id": "466",
+      "name": "República de Mali"
+    },
+    {
+      "id": "480",
+      "name": "República de Mauritius"
+    },
+    {
+      "id": "690",
+      "name": "República de Seychelles"
+    },
+    {
+      "id": "710",
+      "name": "República de Sudáfrica"
+    },
+    {
+      "id": "762",
+      "name": "República de Tajikistan"
+    },
+    {
+      "id": "788",
+      "name": "República de Tunisia"
+    },
+    {
+      "id": "408",
+      "name": "República Democrática de Corea"
+    },
+    {
+      "id": "418",
+      "name": "República Democrática de Lao"
+    },
+    {
+      "id": "626",
+      "name": "República Democrática de Timor-Leste"
+    },
+    {
+      "id": "180",
+      "name": "República Democrática del Congo"
+    },
+    {
+      "id": "214",
+      "name": "República Dominicana"
+    },
+    {
+      "id": "364",
+      "name": "República Islámica de Irán"
+    },
+    {
+      "id": "704",
+      "name": "República Socialista de Vietnam"
+    },
+    {
+      "id": "834",
+      "name": "República Unida de Tanzania"
+    },
+    {
+      "id": "642",
+      "name": "Rumania"
+    },
+    {
+      "id": "646",
+      "name": "Rwanda"
+    },
+    {
+      "id": "732",
+      "name": "Sahara Oeste"
+    },
+    {
+      "id": "513",
+      "name": "Saint Kitts y Nevis"
+    },
+    {
+      "id": "882",
+      "name": "Samoa"
+    },
+    {
+      "id": "016",
+      "name": "Samoa Americana"
+    },
+    {
+      "id": "652",
+      "name": "San Bartolomeo"
+    },
+    {
+      "id": "659",
+      "name": "San Kitts y Nevis"
+    },
+    {
+      "id": "674",
+      "name": "San Marino"
+    },
+    {
+      "id": "663",
+      "name": "San Martín (parte Francesa)"
+    },
+    {
+      "id": "666",
+      "name": "San Pedro y Miquelón"
+    },
+    {
+      "id": "670",
+      "name": "San Vicente y las Granadinas"
+    },
+    {
+      "id": "654",
+      "name": "Santa Helena"
+    },
+    {
+      "id": "662",
+      "name": "Santa Lucía"
+    },
+    {
+      "id": "678",
+      "name": "Santo Tomé y Príncipe"
+    },
+    {
+      "id": "686",
+      "name": "Senegal"
+    },
+    {
+      "id": "688",
+      "name": "Serbia"
+    },
+    {
+      "id": "694",
+      "name": "Sierra Leona"
+    },
+    {
+      "id": "702",
+      "name": "Singapur"
+    },
+    {
+      "id": "706",
+      "name": "Somalia"
+    },
+    {
+      "id": "144",
+      "name": "Sri Lanka"
+    },
+    {
+      "id": "736",
+      "name": "Sudan"
+    },
+    {
+      "id": "752",
+      "name": "Suecia"
+    },
+    {
+      "id": "756",
+      "name": "Suiza"
+    },
+    {
+      "id": "740",
+      "name": "Surinam"
+    },
+    {
+      "id": "275",
+      "name": "Territorios Ocupados Palestinos"
+    },
+    {
+      "id": "764",
+      "name": "Thailanda"
+    },
+    {
+      "id": "768",
+      "name": "Togo"
+    },
+    {
+      "id": "772",
+      "name": "Tokelau"
+    },
+    {
+      "id": "776",
+      "name": "Tonga"
+    },
+    {
+      "id": "780",
+      "name": "Trinidad y Tobago"
+    },
+    {
+      "id": "795",
+      "name": "Turkmenistán"
+    },
+    {
+      "id": "792",
+      "name": "Turquía"
+    },
+    {
+      "id": "514",
+      "name": "Tuvalu"
+    },
+    {
+      "id": "798",
+      "name": "Tuvalu"
+    },
+    {
+      "id": "804",
+      "name": "Ucrania"
+    },
+    {
+      "id": "903",
+      "name": "UCRANIA"
+    },
+    {
+      "id": "800",
+      "name": "Uganda"
+    },
+    {
+      "id": "104",
+      "name": "Unión de Myanmar (Burma)"
+    },
+    {
+      "id": "858",
+      "name": "Uruguay"
+    },
+    {
+      "id": "860",
+      "name": "Uzbekistán"
+    },
+    {
+      "id": "548",
+      "name": "Vanuatu"
+    },
+    {
+      "id": "862",
+      "name": "Venezuela, República Bolivariana de"
+    },
+    {
+      "id": "887",
+      "name": "Yemen"
+    },
+    {
+      "id": "894",
+      "name": "Zambia"
+    },
+    {
+      "id": "716",
+      "name": "Zimbabwe"
+    }
+  ],
+  "regions": [
+    {
+      "id": "01",
+      "name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "02",
+      "name": "Aragón",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "03",
+      "name": "Asturias",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "04",
+      "name": "Balears, Illes",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "05",
+      "name": "Canarias",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "06",
+      "name": "Cantabria",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "08",
+      "name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "07",
+      "name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "09",
+      "name": "Cataluña",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "18",
+      "name": "Ceuta",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "10",
+      "name": "Comunitat Valenciana",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "11",
+      "name": "Extremadura",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "12",
+      "name": "Galicia",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "13",
+      "name": "Madrid, Comunidad de",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "19",
+      "name": "Melilla",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "14",
+      "name": "Murcia, Región de",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "15",
+      "name": "Navarra",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "16",
+      "name": "País Vasco",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "17",
+      "name": "Rioja, La",
+      "country_id": "724",
+      "country_name": "España"
+    }
+  ],
+  "provinces": [
+    {
+      "id": "04",
+      "name": "Almería",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "11",
+      "name": "Cadiz",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "14",
+      "name": "Córdoba",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "18",
+      "name": "Granada",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "21",
+      "name": "Huelva",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "23",
+      "name": "Jaen",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "29",
+      "name": "Málaga",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "41",
+      "name": "Sevilla",
+      "region_id": "01",
+      "region_name": "Andalucía",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "22",
+      "name": "Huesca",
+      "region_id": "02",
+      "region_name": "Aragón",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "44",
+      "name": "Teruel",
+      "region_id": "02",
+      "region_name": "Aragón",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "50",
+      "name": "Zaragoza",
+      "region_id": "02",
+      "region_name": "Aragón",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "33",
+      "name": "Asturias",
+      "region_id": "03",
+      "region_name": "Asturias",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "07",
+      "name": "Baleares",
+      "region_id": "04",
+      "region_name": "Balears, Illes",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "35",
+      "name": "Palmas,Las",
+      "region_id": "05",
+      "region_name": "Canarias",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "38",
+      "name": "Sta.Cruz de Tenerife",
+      "region_id": "05",
+      "region_name": "Canarias",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "39",
+      "name": "Cantabria",
+      "region_id": "06",
+      "region_name": "Cantabria",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "02",
+      "name": "Albacete",
+      "region_id": "08",
+      "region_name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "13",
+      "name": "Ciudad Real",
+      "region_id": "08",
+      "region_name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "16",
+      "name": "Cuenca",
+      "region_id": "08",
+      "region_name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "19",
+      "name": "Guadalajara",
+      "region_id": "08",
+      "region_name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "45",
+      "name": "Toledo",
+      "region_id": "08",
+      "region_name": "Castilla - La Mancha",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "05",
+      "name": "Avila",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "09",
+      "name": "Burgos",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "24",
+      "name": "León",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "34",
+      "name": "Palencia",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "37",
+      "name": "Salamanca",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "40",
+      "name": "Segovia",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "42",
+      "name": "Soria",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "47",
+      "name": "Valladolid",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "49",
+      "name": "Zamora",
+      "region_id": "07",
+      "region_name": "Castilla y León",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "08",
+      "name": "Barcelona",
+      "region_id": "09",
+      "region_name": "Cataluña",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "17",
+      "name": "Gerona",
+      "region_id": "09",
+      "region_name": "Cataluña",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "25",
+      "name": "Lérida",
+      "region_id": "09",
+      "region_name": "Cataluña",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "43",
+      "name": "Tarragona",
+      "region_id": "09",
+      "region_name": "Cataluña",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "51",
+      "name": "Ceuta",
+      "region_id": "18",
+      "region_name": "Ceuta",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "03",
+      "name": "Alicante",
+      "region_id": "10",
+      "region_name": "Comunitat Valenciana",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "12",
+      "name": "Castellón",
+      "region_id": "10",
+      "region_name": "Comunitat Valenciana",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "46",
+      "name": "Valencia",
+      "region_id": "10",
+      "region_name": "Comunitat Valenciana",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "06",
+      "name": "Badajoz",
+      "region_id": "11",
+      "region_name": "Extremadura",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "10",
+      "name": "Cáceres",
+      "region_id": "11",
+      "region_name": "Extremadura",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "15",
+      "name": "Coruña,La",
+      "region_id": "12",
+      "region_name": "Galicia",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "27",
+      "name": "Lugo",
+      "region_id": "12",
+      "region_name": "Galicia",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "32",
+      "name": "Orense",
+      "region_id": "12",
+      "region_name": "Galicia",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "36",
+      "name": "Pontevedra",
+      "region_id": "12",
+      "region_name": "Galicia",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "28",
+      "name": "Madrid",
+      "region_id": "13",
+      "region_name": "Madrid, Comunidad de",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "52",
+      "name": "Melilla",
+      "region_id": "19",
+      "region_name": "Melilla",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "30",
+      "name": "Murcia",
+      "region_id": "14",
+      "region_name": "Murcia, Región de",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "31",
+      "name": "Navarra",
+      "region_id": "15",
+      "region_name": "Navarra",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "01",
+      "name": "Alava",
+      "region_id": "16",
+      "region_name": "País Vasco",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "20",
+      "name": "Guipuzcoa",
+      "region_id": "16",
+      "region_name": "País Vasco",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "48",
+      "name": "Vizcaya",
+      "region_id": "16",
+      "region_name": "País Vasco",
+      "country_id": "724",
+      "country_name": "España"
+    },
+    {
+      "id": "26",
+      "name": "La Rioja",
+      "region_id": "17",
+      "region_name": "Rioja, La",
+      "country_id": "724",
+      "country_name": "España"
+    }
+  ]
+}
